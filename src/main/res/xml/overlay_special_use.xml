@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<foreground-service-special-use
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/overlay_special_use_description" />

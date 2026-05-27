@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sdamgia</string>
+    <string name="overlay_special_use_description">Показывает информационную панель со статами питомца поверх других приложений, когда приложение свёрнуто</string>
+</resources>
